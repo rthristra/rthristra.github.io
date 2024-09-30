@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rthristra.github.io/sitemap.html.gz
+Sitemap: https://rthristra.github.io/app/sitemap.html.gz
+Sitemap: https://rthristra.github.io/assets/sitemap.html.gz
+Sitemap: https://rthristra.github.io/css/sitemap.html.gz
+Sitemap: https://rthristra.github.io/data/sitemap.html.gz
+Sitemap: https://rthristra.github.io/includes/sitemap.html.gz
+Sitemap: https://rthristra.github.io/item/sitemap.html.gz
+Sitemap: https://rthristra.github.io/src/sitemap.html.gz
